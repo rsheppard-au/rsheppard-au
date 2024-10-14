@@ -1,4 +1,11 @@
-## Hi there 👋
+## Hi, I'm Ryan 👋
+
+- 🇦🇺 I live in Adelaide, Australia.
+- ❤️ I'm passionate about software development and writing clean, maintainable code.
+- 🛠️ I've worked on many different kinds of projects (e.g., Desktop/Web/Server) and tech stacks (e.g., .NET/Rust/TypeScript/Python).
+- 🌉 I have an Engineering degree, and I also have experience in IT Administration.
+- 🔭 I'm looking to get more involved with open source.
+- 🌱 I love to learn new things.
 
 <!--
 **rsheppard-au/rsheppard-au** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -3,7 +3,7 @@
 - 🇦🇺 I'm from Adelaide, Australia
 - ❤️ Passionate about software development and writing clean, maintainable code
 - 🛠️ Worked on many different projects (e.g., Desktop/Web/Server) and tech stacks (e.g., .NET/Rust/TypeScript/Python)
-- 🌉 Engineering degree, and experience in 🖥️ IT Administration
+- 🌉 Engineering degree and 🖥️ IT Administration experience
 - 👯 Looking to get more involved with open source
 - 🌱 Love to learn new things
 
